@@ -1,14 +1,28 @@
 {
-  "applinks": {
-      "apps": [],
+    "applinks": {
       "details": [
-          {
-              "appID": "SYU9PLGTUN.br.com.scrubin",
-              "paths": [
-                  "*",
-                  "/"
-              ]
-          }
+        {
+          "appIDs": [
+            "SYU9PLGTUN.br.com.scrubin"
+          ],
+          "components": [
+            {
+              "/": "*",
+              "comment": "Matches all routes"
+            }
+          ]
+        }
       ]
+    },
+    "activitycontinuation": {
+      "apps": [
+        "SYU9PLGTUN.br.com.scrubin"
+      ]
+    },
+    "webcredentials": {
+      "apps": [
+        "SYU9PLGTUN.br.com.scrubin"
+      ]
+    }
   }
-}
+  
