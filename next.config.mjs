@@ -7,7 +7,7 @@ const nextConfig = {
         headers: [
           {
             key: "Content-Type",
-            value: "application/pkcs7-mime",
+            value: "application/json",
           },
         ],
       },
