@@ -1,0 +1,14 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+          {
+              "appID": "SYU9PLGTUN.br.com.scrubin",
+              "paths": [
+                  "*",
+                  "/"
+              ]
+          }
+      ]
+  }
+}
